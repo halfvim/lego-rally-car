@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.5.1)
+  - BlueSocket (1.0.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.1)
+  - BlueSocket (from `https://github.com/IBM-Swift/BlueSocket.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  BlueSocket:
+    :git: https://github.com/IBM-Swift/BlueSocket.git
+
+CHECKOUT OPTIONS:
+  BlueSocket:
+    :commit: a4370251998438d60335151141968546e2330379
+    :git: https://github.com/IBM-Swift/BlueSocket.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  BlueSocket: 763db95b6002c0e7dec8eb0c27bc628ca95296d1
+
+PODFILE CHECKSUM: e9f6a9b541ca8487d0de80d4c01e06b95aca05ec
+
+COCOAPODS: 1.5.3

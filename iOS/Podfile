@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+inhibit_all_warnings!
+
+project 'Rally Car.xcodeproj'
+
+target 'Rally Car' do
+    pod 'Alamofire', '~> 4.5.1'
+    pod 'BlueSocket', :git => 'https://github.com/IBM-Swift/BlueSocket.git'
+end
+
